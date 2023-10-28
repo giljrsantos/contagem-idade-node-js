@@ -11,10 +11,10 @@ Nessa aplicação devemos solicitar uma chamada GET na API: https://coderbyte.co
 const entradas = data.data.split(', ')
 
 const idadesMaioresQue50 = entradas
-.map(entrada => entrada.match(/age=(\d+)/)) 
-.filter(match => match !== null)
-.map(match => parseInt(match[1]))
-.filter(idade => idade >= 50)
+            .map(entrada => entrada.match(/age=(\d+)/)) 
+            .filter(match => match !== null)
+            .map(match => parseInt(match[1]))
+            .filter(idade => idade >= 50)
 ```
 
 ## ScreenShot do Retorno da API
