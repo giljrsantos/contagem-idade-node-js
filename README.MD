@@ -3,7 +3,6 @@
 Esse é um projetinho simples.
 
 Nessa aplicação devemos solicitar uma chamada GET na API: https://coderbyte.com/api/challenges/json/age-counting que contém uma chave de dados e o valor. O objetivo da aplicação é contar quantos itens existem com idade igual ou superior a 50 anos. 
-```
 
 ## Parte Codigo JavaScript
 
