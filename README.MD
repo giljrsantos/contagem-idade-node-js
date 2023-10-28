@@ -19,7 +19,7 @@ const idadesMaioresQue50 = entradas
 
 ## ScreenShot do Retorno da API
 <p align="center">
-<img src="./1.png" width="100%">
+<img src="https://github.com/giljrsantos/contagem-idade-node-js/blob/master/1.png" width="100%">
 </p>
 
 
